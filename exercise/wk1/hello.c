@@ -23,13 +23,5 @@ int main(void) {
 		printf("\n");
 	}
 	return 0;
-}
-	/*
-	int myNumber = 0;
-  printf("Hello: Welcome to C291!\n");
-  printf("Please enter a number and press ENTER: ");
-  scanf("%d", &myNumber);
-  printf("Here is the number yor entered: %d\n",myNumber);
-	return(0);
-  */
+ }
 }
